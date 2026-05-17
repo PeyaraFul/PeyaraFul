@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img width="15" src="https://skillicons.dev/icons?i=js" /> JavaScript
+  <img width="15" src="https://skillicons.dev/icons?i=js" /> JavaScript ( ES6+ )
 </p>
 
+
 <p>
-  <img width="15" src="https://skillicons.dev/icons?i=ts" /> TypeScript
+  <img width="15" src="https://skillicons.dev/icons?i=tailwind" /> Tailwind CSS
 </p>
 
 <p>
@@ -58,13 +59,7 @@ Here are some ideas to get you started:
   <img width="15" src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
 </p>
 
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=firebase" /> Firebase
-</p>
 
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=tailwind" /> Tailwind CSS
-</p>
 
 <p>
   <img width="15" src="https://skillicons.dev/icons?i=git" /> Git

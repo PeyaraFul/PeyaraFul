@@ -18,3 +18,71 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### SKILLS 🛠️
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=html" /> HTML5
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=css" /> CSS3
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=js" /> JavaScript
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=ts" /> TypeScript
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=react" /> React
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=nextjs" /> Next.js
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=nodejs" /> Node.js
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=express" /> Express.js
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=firebase" /> Firebase
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=tailwind" /> Tailwind CSS
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=git" /> Git
+</p>
+
+<p>
+  <img width="15" src="https://skillicons.dev/icons?i=github" /> GitHub
+</p>
+
+
+### SOCIAL 
+<p>
+  <a href="https://www.facebook.com/arakash022" target="_blank">
+    <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /> Facebook
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/md-akash-mia-bd" target="_blank">
+    <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> LinkedIn
+  </a>
+</p>

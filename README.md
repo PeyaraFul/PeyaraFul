@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### SOCIAL 
+### SOCIAL 🌐
 <p>
   <a href="https://www.facebook.com/arakash022" target="_blank">
     <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /> Facebook

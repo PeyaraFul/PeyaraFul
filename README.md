@@ -2,8 +2,9 @@
 
 
 
-## Hi there 👋
+## ABOUT ME 👋
 
+I'm Md Akash Mia, a MERN-Stack web application developer. Passionate Web Developer focused on building scalable, modern, and user-friendly web applications using React, Next.js, Node.js, and MongoDB.
 <!--
 **PeyaraFul/PeyaraFul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

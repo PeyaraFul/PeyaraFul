@@ -90,6 +90,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## 🌍 Languages
+
+- Bangla — Native
+- English — Intermediate
+
 # Projects:
 ## 🚗 Drive-Nest
 
@@ -228,6 +233,5 @@ I built the complete project including responsive UI, authentication system, pro
 
 
 
-### Language 
-Bangla and English
+
 

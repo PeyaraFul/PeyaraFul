@@ -138,7 +138,7 @@ I built the complete application including frontend UI, backend APIs, authentica
 
 ### Authentication & Tools
 - JWT Authentication
-- Firebase Authentication
+- Google loging
 - REST API
 
 ---
@@ -168,7 +168,7 @@ I built the complete application including frontend UI, backend APIs, authentica
 # ☀️ Summer Essential Store
 
 <p align="center">
-  <img width="100%" alt="Summer Essential Store Banner" src="https://summer-essential-store.vercel.app/opengraph-image.png" />
+<img width="1919" height="1079" alt="Screenshot 2026-05-24 162113" src="https://github.com/user-attachments/assets/11cfd3a3-aa9a-49df-b199-509a25b41caf" />
 </p>
 
 <p align="center">

@@ -89,3 +89,8 @@ Here are some ideas to get you started:
     🌐 Portfolio
   </a>
 </p>
+
+
+### Language 
+Bangla and English
+

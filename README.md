@@ -91,6 +91,19 @@ Here are some ideas to get you started:
 </p>
 
 
+### Projects:
+# Drive-Nest
+<img width="1902" height="1079" alt="Screenshot 2026-05-24 144150" src="https://github.com/user-attachments/assets/3aa02dce-4ac5-46eb-8c99-b6b23d2b3463" />
+
+Drive-Nest is a modern car rental platform. Users can add their car, booking a car on a specific date and they can also manage their booking and car data such as delete, update, cancel etc.
+A scalable full-stack web application with MongoDB, Express.js, React.js, and Node.js.
+I built the whole application including mobile, tab & desktop responsive UI, JWT-based authentication system, booking system, user and booking related data storing, notification and all everything. 
+
+Server side repo: https://github.com/PeyaraFul/drive-nest-server 						
+Client side repo: https://github.com/PeyaraFul/drive-nest
+Live: https://drive-nest-omega.vercel.app
+
+
 ### Language 
 Bangla and English
 

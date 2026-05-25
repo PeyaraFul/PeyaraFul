@@ -84,3 +84,8 @@ Here are some ideas to get you started:
     <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> LinkedIn
   </a>
 </p>
+<p>
+  <a href="https://akash-portfolio-three-ashy.vercel.app" target="_blank">
+    🌐 Portfolio
+  </a>
+</p>

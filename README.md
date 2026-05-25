@@ -91,17 +91,80 @@ Here are some ideas to get you started:
 </p>
 
 
-### Projects:
-# Drive-Nest
-<img width="1902" height="1079" alt="Screenshot 2026-05-24 144150" src="https://github.com/user-attachments/assets/3aa02dce-4ac5-46eb-8c99-b6b23d2b3463" />
+# 🚗 Drive-Nest
 
-Drive-Nest is a modern car rental platform. Users can add their car, booking a car on a specific date and they can also manage their booking and car data such as delete, update, cancel etc.
-A scalable full-stack web application with MongoDB, Express.js, React.js, and Node.js.
-I built the whole application including mobile, tab & desktop responsive UI, JWT-based authentication system, booking system, user and booking related data storing, notification and all everything. 
+<p align="center">
+  <img width="100%" alt="Drive-Nest Banner" src="https://github.com/user-attachments/assets/3aa02dce-4ac5-46eb-8c99-b6b23d2b3463" />
+</p>
 
-Server side repo: https://github.com/PeyaraFul/drive-nest-server 						
-Client side repo: https://github.com/PeyaraFul/drive-nest
-Live: https://drive-nest-omega.vercel.app
+<p align="center">
+  A modern full-stack car rental platform built with the MERN stack.
+</p>
+
+---
+
+## 🌐 Live Website
+
+🔗 https://drive-nest-omega.vercel.app
+
+---
+
+## 📖 Project Overview
+
+Drive-Nest is a modern and scalable car rental platform where users can:
+
+- 🚘 Add and manage their cars
+- 📅 Book cars on specific dates
+- ✏️ Update or delete car data
+- ❌ Cancel bookings
+- 🔐 Use a secure JWT-based authentication system
+- 📱 Enjoy fully responsive UI for mobile, tablet, and desktop devices
+
+I built the complete application including frontend UI, backend APIs, authentication system, booking management, database integration, notifications, and responsive design.
+
+---
+
+## ⚙️ Technologies Used
+
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+
+### Authentication & Tools
+- JWT Authentication
+- Firebase Authentication
+- REST API
+
+---
+
+## ✨ Features
+
+- 🔐 Secure authentication system
+- 🚗 Add, update, and delete cars
+- 📅 Car booking system
+- 📦 Booking management
+- 📱 Fully responsive design
+- ⚡ Modern UI/UX
+- 🔔 Notification system
+- 🌐 Full-stack architecture
+
+---
+
+## 📂 Repositories
+
+### Client Side
+🔗 https://github.com/PeyaraFul/drive-nest
+
+### Server Side
+🔗 https://github.com/PeyaraFul/drive-nest-server
+
+---
 
 
 ### Language 

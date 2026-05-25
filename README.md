@@ -165,6 +165,67 @@ I built the complete application including frontend UI, backend APIs, authentica
 🔗 https://github.com/PeyaraFul/drive-nest-server
 
 ---
+# ☀️ Summer Essential Store
+
+<p align="center">
+  <img width="100%" alt="Summer Essential Store Banner" src="https://summer-essential-store.vercel.app/opengraph-image.png" />
+</p>
+
+<p align="center">
+  A modern and responsive summer products e-commerce platform built with Next.js and MongoDB.
+</p>
+
+---
+
+## 🌐 Live Website
+
+🔗 https://summer-essential-store.vercel.app
+
+---
+
+## 📖 Project Overview
+
+Summer Essential Store is a fully responsive e-commerce platform designed for purchasing summer-related products. Users can explore products, place orders, create profiles, and update their personal information.
+
+I built the complete project including responsive UI, authentication system, profile management, product exploration, and deployment.
+
+---
+
+## ⚙️ Technologies Used
+
+### Frontend
+- Next.js
+- React.js
+- Tailwind CSS
+
+### Backend & Database
+- MongoDB
+
+### Authentication
+- Better Auth
+- Google Login
+- Email & Password Authentication
+
+---
+
+## ✨ Features
+
+- ☀️ Summer products showcase
+- 🛒 Product ordering system
+- 👤 User profile management
+- ✏️ Update user information
+- 🔐 Google authentication
+- 📧 Email-password login system
+- 📱 Fully responsive UI
+- ⚡ Modern and clean design
+- 🚀 Vercel deployment
+
+---
+
+## 📂 Repository
+
+🔗 https://github.com/PeyaraFul/summer-essential-store
+
 
 
 ### Language 

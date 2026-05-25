@@ -2,7 +2,7 @@
 
 
 
-## ABOUT ME 👋
+## 👋 ABOUT ME 
 
 I'm Md Akash Mia, a MERN-Stack web application developer. Passionate Web Developer focused on building scalable, modern, and user-friendly web applications using React, Next.js, Node.js, and MongoDB. 
 Still learnig large scale backend developement and database management.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-### SKILLS 🛠️
+## 🛠️ SKILLS 
 <p>
   <img width="15" src="https://skillicons.dev/icons?i=html" /> HTML5
 </p>
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### SOCIAL 🌐
+## 🌐 SOCIAL 
 <p>
   <a href="https://www.facebook.com/arakash022" target="_blank">
     <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /> Facebook

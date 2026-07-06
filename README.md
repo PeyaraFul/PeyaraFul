@@ -96,6 +96,217 @@ Here are some ideas to get you started:
 - English — Intermediate
 
 # Projects:
+# 🏡 Peyaraful Nest
+
+<p align="center">
+  <img width="100%" alt="Peyaraful Nest Banner" src="YOUR_BANNER_IMAGE_URL_HERE" />
+</p>
+
+<p align="center">
+  A modern full-stack property rental platform built with the MERN Stack.
+</p>
+
+---
+
+## 🌐 Live Website
+
+🔗 https://peyaraful-nest.vercel.app
+
+---
+
+## 📖 Project Overview
+
+Peyaraful Nest is a modern property rental platform that helps property owners list their rental properties and enables tenants to discover, book, and pay for their preferred homes securely.
+
+The platform provides a seamless experience for renters, landlords, and administrators through an intuitive interface, secure authentication, online payments, and efficient property management.
+
+---
+
+## ⚙️ Technologies Used
+
+### Frontend
+
+- React.js
+- Vite
+- Tailwind CSS
+- Hero UI
+- React Router
+- Axios
+- TanStack Query
+- React Hook Form
+- React Icons
+- React Hot Toast
+- Framer Motion
+
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+
+### Authentication & Services
+
+- Firebase Authentication
+- JWT Authentication
+- Stripe Payment Gateway
+- REST API
+
+---
+
+## ✨ Features
+
+### 👤 Authentication
+
+- 🔐 Secure JWT Authentication
+- 🔑 Google Login
+- 📧 Email & Password Login
+- 🔒 Protected Routes
+
+### 🏠 Property Management
+
+- ➕ Add New Property
+- ✏️ Update Property Information
+- 🗑️ Delete Property
+- 📸 Multiple Property Images
+- 🔍 Search Properties
+- 🎯 Filter by Property Type
+- 💰 Filter by Price Range
+- 📍 Search by Location
+
+### 📅 Booking System
+
+- 🏡 Book Rental Properties
+- 📦 Manage Bookings
+- ❌ Cancel Bookings
+- 📜 Booking History
+
+### 💳 Payment
+
+- 💳 Secure Stripe Payment Integration
+- ✅ Online Rent Payment
+- 📄 Payment History
+
+### ❤️ User Experience
+
+- ❤️ Wishlist/Favorite Properties
+- 🔔 Toast Notifications
+- 📱 Fully Responsive Design
+- ⚡ Fast Performance
+- 🎨 Modern UI/UX
+- 🌙 Clean User Interface
+
+### 👨‍💼 Admin Features
+
+- 👥 Manage Users
+- 🏠 Manage Properties
+- 📊 Dashboard Analytics
+- 📑 Monitor Bookings
+
+---
+
+## 📂 Project Structure
+
+```
+peyaraful-nest/
+│
+├── client/
+├── server/
+└── README.md
+```
+
+---
+
+## 🚀 Installation
+
+### Clone the repositories
+
+```bash
+git clone https://github.com/PeyaraFul/peyaraful-nest.git
+```
+
+```bash
+git clone https://github.com/PeyaraFul/peyaraful-nest-server.git
+```
+
+### Client
+
+```bash
+cd peyaraful-nest
+npm install
+npm run dev
+```
+
+### Server
+
+```bash
+cd peyaraful-nest-server
+npm install
+npm run dev
+```
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file in both client and server.
+
+### Client
+
+```env
+VITE_API_URL=
+VITE_FIREBASE_API_KEY=
+VITE_FIREBASE_AUTH_DOMAIN=
+VITE_FIREBASE_PROJECT_ID=
+VITE_FIREBASE_STORAGE_BUCKET=
+VITE_FIREBASE_MESSAGING_SENDER_ID=
+VITE_FIREBASE_APP_ID=
+VITE_STRIPE_PUBLISHABLE_KEY=
+```
+
+### Server
+
+```env
+PORT=5000
+
+MONGO_DB_URI=
+
+JWT_SECRET=
+
+FIREBASE_SERVICE_KEY=
+
+STRIPE_SECRET_KEY=
+```
+
+---
+
+## 📂 Repositories
+
+### 💻 Client Side
+
+🔗 https://github.com/PeyaraFul/peyaraful-nest
+
+### ⚙️ Server Side
+
+🔗 https://github.com/PeyaraFul/peyaraful-nest-server
+
+---
+
+## 👨‍💻 Developer
+
+**Md Akash Mia**
+
+- 🌐 Portfolio: https://your-portfolio.com
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 💻 GitHub: https://github.com/PeyaraFul
+- 📧 Email: your-email@example.com
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to ⭐ star the repositories.
+
+Your support motivates me to build more amazing projects!
 ## 🚗 Drive-Nest
 
 <p align="center">

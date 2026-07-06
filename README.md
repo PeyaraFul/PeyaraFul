@@ -99,7 +99,12 @@ Here are some ideas to get you started:
 # 🏡 Peyaraful Nest
 
 <p align="center">
-  <img width="100%" alt="Peyaraful Nest Banner" src="YOUR_BANNER_IMAGE_URL_HERE" />
+    <img width="1919" height="1079" alt="Screenshot 2026-07-02 131000" src="https://github.com/user-attachments/assets/b546e6b6-9ddc-46c5-b3b9-4f198f06066b" />
+
+
+
+
+    
 </p>
 
 <p align="center">
@@ -110,7 +115,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Live Website
 
-🔗 https://peyaraful-nest.vercel.app
+🔗 https://peyaraful-nest-client.vercel.app
 
 ---
 
@@ -221,11 +226,11 @@ peyaraful-nest/
 ### Clone the repositories
 
 ```bash
-git clone https://github.com/PeyaraFul/peyaraful-nest.git
+git clone https://github.com/PeyaraFul/peyaraful-nest-client
 ```
 
 ```bash
-git clone https://github.com/PeyaraFul/peyaraful-nest-server.git
+git clone https://github.com/PeyaraFul/peyaraful-nest-server
 ```
 
 ### Client
@@ -283,7 +288,7 @@ STRIPE_SECRET_KEY=
 
 ### 💻 Client Side
 
-🔗 https://github.com/PeyaraFul/peyaraful-nest
+🔗 https://github.com/PeyaraFul/peyaraful-nest-client
 
 ### ⚙️ Server Side
 
@@ -295,10 +300,10 @@ STRIPE_SECRET_KEY=
 
 **Md Akash Mia**
 
-- 🌐 Portfolio: https://your-portfolio.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 🌐 Portfolio: https://akash-portfolio-three-ashy.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/md-akash-mia-bd
 - 💻 GitHub: https://github.com/PeyaraFul
-- 📧 Email: your-email@example.com
+- 📧 Email: arakash022@gmail.com
 
 ---
 
@@ -307,7 +312,9 @@ STRIPE_SECRET_KEY=
 If you like this project, don't forget to ⭐ star the repositories.
 
 Your support motivates me to build more amazing projects!
-## 🚗 Drive-Nest
+
+
+# 🚗 Drive-Nest
 
 <p align="center">
   <img width="100%" alt="Drive-Nest Banner" src="https://github.com/user-attachments/assets/3aa02dce-4ac5-46eb-8c99-b6b23d2b3463" />

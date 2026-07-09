@@ -7,7 +7,7 @@
 I'm **Md Akash Mia**, a **MERN-Stack developer**. Passionate Web Developer focused on building scalable, modern, and user-friendly web applications using **React, Next.js, Node.js, and MongoDB**. 
 Still learnig large scale backend developement and database management.
 Searching a opportunity to work with a experieced team who are joined with real-world large web project.
-## 👋 About Me
+
 
 
 
@@ -27,54 +27,93 @@ Here are some ideas to get you started:
 -->
 
 
-## 🛠️ SKILLS 
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=html" /> HTML5
-</p>
 
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=css" /> CSS3
-</p>
+## 🛠️ Tech Stack
 
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=js" /> JavaScript ( ES6+ )
-</p>
+<table>
+
+<tr>
+<td><strong>🎨 Frontend</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="30"/><br>HTML5
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="30"/><br>CSS3
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="30"/><br>JavaScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="30"/><br>Tailwind
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="30"/><br>React
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="30"/><br>Next.js
+</td>
+</tr>
+
+<tr>
+<td><strong>⚙️ Backend</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="30"/><br>Node.js
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="30"/><br>Express
+</td>
+<td colspan="4"></td>
+</tr>
+
+<tr>
+<td><strong>🗄️ Database</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="30"/><br>MongoDB
+</td>
+<td colspan="5"></td>
+</tr>
+
+<tr>
+<td><strong>🔐 Authentication</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" width="30"/><br>Firebase
+</td>
+<td align="center">
+<img src="https://jwt.io/img/pic_logo.svg" width="30"/><br>JWT
+</td>
+<td colspan="4"></td>
+</tr>
+
+<tr>
+<td><strong>🚀 Deployment</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="30"/><br>Vercel
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=netlify" width="30"/><br>Netlify
+</td>
+<td colspan="4"></td>
+</tr>
+
+<tr>
+<td><strong>🧰 Tools</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="30"/><br>Git
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="30"/><br>GitHub
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="30"/><br>VS Code
+</td>
+<td colspan="4" >
+
+</td>
 
 
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=tailwind" /> Tailwind CSS
-</p>
+</tr>
 
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=react" /> React
-</p>
-
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=nextjs" /> Next.js
-</p>
-
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=nodejs" /> Node.js
-</p>
-
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=express" /> Express.js
-</p>
-
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
-</p>
-
-
-
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=git" /> Git
-</p>
-
-<p>
-  <img width="15" src="https://skillicons.dev/icons?i=github" /> GitHub
-</p>
-
+</table>
 
 ## 🌐 SOCIAL 
 <p>

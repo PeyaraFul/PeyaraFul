@@ -34,14 +34,10 @@ Here are some ideas to get you started:
 
 <tr>
 <td><strong>🎨 Frontend</strong></td>
+
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="30"/><br>HTML5
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="30"/><br>CSS3
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="30"/><br>JavaScript
+<img src="https://skillicons.dev/icons?i=js" width="30"/><br>JS (ES6+)
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=tailwind" width="30"/><br>Tailwind
@@ -49,7 +45,7 @@ Here are some ideas to get you started:
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="30"/><br>React
 </td>
-<td align="center">
+<td align="center" colnspan='2'>
 <img src="https://skillicons.dev/icons?i=nextjs" width="30"/><br>Next.js
 </td>
 </tr>

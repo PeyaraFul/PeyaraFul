@@ -135,6 +135,109 @@ Here are some ideas to get you started:
 - English — Intermediate
 
 # Projects:
+
+<div align="center">
+
+# 🐱 Peyaraful Cat Adoption
+
+### *Find your purrfect companion — a full-stack platform connecting cats in need of homes with loving adopters.*
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://peyarafulcatadoptionclient.vercel.app)
+[![Server Repo](https://img.shields.io/badge/Server%20Repo-GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeyaraFul/peyaraful-cat-adoption-server)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#)
+
+</div>
+
+---
+
+## 📖 About The Project
+
+https://peyarafulcatadoptionclient.vercel.app
+
+<img width="1897" height="932" alt="Screenshot 2026-07-24 192029" src="https://github.com/user-attachments/assets/eb31b443-12e5-4790-acb9-278ec762acdd" />
+
+**Peyaraful Cat Adoption** is a modern, full-stack web application built to simplify the cat adoption process. Whether you're a cat lover looking to adopt or an owner seeking a loving home for your cat, this platform provides everything you need — from browsing listings and submitting adoption requests to sharing heartwarming success stories.
+
+The app features a **user dashboard** for managing cats and requests, an **admin dashboard** with interactive charts and analytics, a **real-time chat** system, and **Google OAuth** authentication — all wrapped in a clean, responsive UI.
+
+## 🎯 Why This Project?
+
+Every year, thousands of cats are left without homes. Finding a trustworthy and centralized platform to adopt or rehome cats can be challenging. **Peyaraful Cat Adoption** solves this by providing:
+
+- A **trusted marketplace** where cat owners can list cats for adoption
+- A **seamless adoption workflow** — browse, request, approve, done
+- **Community stories** that inspire and build trust among adopters
+- **Admin oversight** to ensure the platform stays safe and active
+
+## ✨ Key Features
+
+| Feature | Description |
+|---------|-------------|
+| 🔍 **Smart Search & Filters** | Browse cats by location, gender, age, and keyword |
+| 📋 **Cat Listings** | View detailed profiles — photo, breed, health, vaccination, temperament |
+| 📩 **Adoption Requests** | Send adoption requests; owners can approve or reject |
+| 📖 **Success Stories** | Read and share heartwarming adoption stories with likes |
+| 👤 **User Dashboard** | Manage your cats, view requests, edit profile |
+| 🛡️ **Admin Dashboard** | Stats, charts (pie, bar, line), manage users, cats & adoptions |
+| 💬 **Real-Time Chat** | Chat support for instant communication |
+| 🔐 **Google OAuth** | Secure sign-in with Google |
+| 💀 **Skeleton Loaders** | Smooth loading states across all pages |
+| 📱 **Fully Responsive** | Optimized for mobile, tablet, and desktop |
+
+---
+
+## 🚀 Live Demo
+
+> **Client:** [https://peyarafulcatadoptionclient.vercel.app](https://peyarafulcatadoptionclient.vercel.app)
+>
+> **Server:** [https://peyarafulcatadoptionserver.vercel.app](https://github.com/PeyaraFul/peyaraful-cat-adoption-server)
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| **Framework** | [Next.js 16](https://nextjs.org/) (App Router) |
+| **UI Library** | [React 19](https://react.dev/) |
+| **Language** | [TypeScript](https://www.typescriptlang.org/) |
+| **Styling** | [Tailwind CSS v4](https://tailwindcss.com/) |
+| **State / Data Fetching** | [TanStack Query](https://tanstack.com/query/latest) |
+| **HTTP Client** | [Axios](https://axios-http.com/) |
+| **Charts** | [Recharts](https://recharts.org/) |
+| **Animations** | [Framer Motion](https://www.framer.com/motion/) |
+| **Icons** | [React Icons](https://react-icons.github.io/react-icons/) |
+| **Notifications** | [React Hot Toast](https://fkhadra.github.io/react-hot-toast/) |
+| **Authentication** | [Google OAuth](https://developers.google.com/identity/protocols/oauth2) |
+
+---
+
+
+
+## 🔗 Related Repos
+
+| Repo | Link |
+|------|------|
+| Backend Server | [PeyaraFul/peyaraful-cat-adoption-server](https://github.com/PeyaraFul/peyaraful-cat-adoption-server) |
+
+---
+
+
+<div align="center">
+
+**Made with ❤️ for cats everywhere**
+
+</div>
+
+
+
+
+
+
+
+
+
+
 # 🏡 Peyaraful Nest
 
 <p align="center">
@@ -427,66 +530,7 @@ I built the complete application including frontend UI, backend APIs, authentica
 🔗 https://github.com/PeyaraFul/drive-nest-server
 
 ---
-# ☀️ Summer Essential Store
-
-<p align="center">
-<img width="1919" height="1079" alt="Screenshot 2026-05-24 162113" src="https://github.com/user-attachments/assets/11cfd3a3-aa9a-49df-b199-509a25b41caf" />
-</p>
-
-<p align="center">
-  A modern and responsive summer products e-commerce platform built with Next.js and MongoDB.
-</p>
-
----
-
-## 🌐 Live Website
-
-🔗 https://summer-essential-store.vercel.app
-
----
-
-## 📖 Project Overview
-
-Summer Essential Store is a fully responsive e-commerce platform designed for purchasing summer-related products. Users can explore products, place orders, create profiles, and update their personal information.
-
-I built the complete project including responsive UI, authentication system, profile management, product exploration, and deployment.
-
----
-
-## ⚙️ Technologies Used
-
-### Frontend
-- Next.js
-- React.js
-- Tailwind CSS
-
-### Backend & Database
-- MongoDB
-
-### Authentication
-- Better Auth
-- Google Login
-- Email & Password Authentication
-
----
-
-## ✨ Features
-
-- ☀️ Summer products showcase
-- 🛒 Product ordering system
-- 👤 User profile management
-- ✏️ Update user information
-- 🔐 Google authentication
-- 📧 Email-password login system
-- 📱 Fully responsive UI
-- ⚡ Modern and clean design
-- 🚀 Vercel deployment
-
----
-
-## 📂 Repository
-
-🔗 https://github.com/PeyaraFul/summer-essential-store
+#
 
 
 

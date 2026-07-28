@@ -230,6 +230,115 @@ Every year, thousands of cats are left without homes. Finding a trustworthy and 
 </div>
 
 
+<div align="center">
+
+# Peyaraful Crowdfunding
+
+**A full-stack crowdfunding platform where creators launch campaigns, supporters fund them with credits, and administrators oversee the entire ecosystem.**
+
+[![Live Site](https://img.shields.io/badge/Live%20Site-peyaraful--crowdfunding--client.vercel.app-2D5016?style=for-the-badge&logo=vercel&logoColor=white)](https://peyaraful-crowdfunding-client.vercel.app)
+[![Client Repo](https://img.shields.io/badge/Client%20Repo-GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeyaraFul/peyaraful-crowdfunding-client)
+[![Server Repo](https://img.shields.io/badge/Server%20Repo-GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeyaraFul/peyaraful-crowdfunding-server)
+
+<br />
+
+![Next.js](https://img.shields.io/badge/Next.js-16.2-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-9-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-Payment-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+</div>
+
+---
+
+## About the Project
+https://peyaraful-crowdfunding-client.vercel.app
+
+<img width="1851" height="798" alt="Screenshot 2026-07-24 185333" src="https://github.com/user-attachments/assets/2c022be5-7182-42b5-81cc-ec01a102f5e8" />
+
+
+Peyaraful Crowdfunding is a role-based crowdfunding platform built as a MERN stack application. It connects **creators** who need funding for projects with **supporters** who contribute using a credits-based system, all overseen by an **administrator**.
+
+The platform operates on an internal credit economy: supporters purchase credits using real money via Stripe (100 credits = $10), contribute those credits to campaigns they believe in, and creators can withdraw raised funds at a rate of 20 credits = $1. Every campaign goes through an approval process before becoming visible to supporters, ensuring quality control across the platform.
+
+Built with Next.js App Router on the frontend and Express + Mongoose on the backend, the application features JWT authentication, responsive design across all devices, real-time notifications, and a comprehensive admin panel for platform management.
+
+---
+
+## Features
+
+- **Three Role-Based Dashboards** — Distinct interfaces for Supporters, Creators, and Admins with tailored functionality
+- **Stripe Credit Purchasing** — Buy credits in 4 packages ($10/$25/$60/$110) via Stripe Checkout
+- **Campaign Lifecycle Management** — Create, submit for approval, edit, and delete campaigns
+- **Contribution Flow** — Supporters contribute credits; creators approve or reject with automatic credit refund on rejection
+- **Withdrawal System** — Creators request withdrawals with real-time earnings calculation (20 credits = $1)
+- **Admin Oversight** — Approve/reject campaigns, process withdrawal requests, manage users, handle reports
+- **Notification System** — Real-time notifications for all status changes (campaign approval, contribution updates, withdrawals)
+- **JWT Authentication** — Secure login with page-reload persistence (no redirect on private routes)
+- **Responsive Design** — Fully responsive across mobile, tablet, and desktop including all dashboard views
+- **Animated Homepage** — Swiper slider with banners, top funded campaigns, testimonials, and custom sections
+- **Report System** — Supporters can flag suspicious or fraudulent campaigns for admin review
+- **Search & Browse** — Explore all approved campaigns with category filtering and card-based layouts
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| **Frontend** | Next.js 16 (App Router), React 19, TypeScript |
+| **Styling** | Tailwind CSS 4, Framer Motion, Swiper |
+| **Backend** | Node.js, Express 4, TypeScript |
+| **Database** | MongoDB with Mongoose 9 |
+| **Authentication** | JWT (access-token in localStorage) |
+| **Payment** | Stripe (client-side integration) |
+| **Icons** | Lucide React, React Icons |
+| **Notifications** | React Toastify |
+
+---
+
+## Admin Credentials
+
+```
+Email:    admin@peyaraful.com
+Password: admin123
+```
+
+---
+
+## Live Links
+
+| Resource | URL |
+|----------|-----|
+| **Live Client** | [peyaraful-crowdfunding-client.vercel.app](https://peyaraful-crowdfunding-client.vercel.app) |
+| **Client Repository** | [github.com/PeyaraFul/peyaraful-crowdfunding-client](https://github.com/PeyaraFul/peyaraful-crowdfunding-client) |
+| **Server Repository** | [github.com/PeyaraFul/peyaraful-crowdfunding-server](https://github.com/PeyaraFul/peyaraful-crowdfunding-server) |
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- **Node.js** 18+ and npm
+- **MongoDB** (local instance or MongoDB Atlas cluster)
+- **Stripe** account for payment integration
+
+
+
+## Contributing
+
+Contributions are welcome. Fork the repository, create a feature branch, make your changes, and submit a pull request.
+
+---
+
+<div align="center">
+
+Built with the MERN stack
+
+</div>
 
 
 
@@ -351,80 +460,6 @@ The platform provides a seamless experience for renters, landlords, and administ
 
 ---
 
-## 📂 Project Structure
-
-```
-peyaraful-nest/
-│
-├── client/
-├── server/
-└── README.md
-```
-
----
-
-## 🚀 Installation
-
-### Clone the repositories
-
-```bash
-git clone https://github.com/PeyaraFul/peyaraful-nest-client
-```
-
-```bash
-git clone https://github.com/PeyaraFul/peyaraful-nest-server
-```
-
-### Client
-
-```bash
-cd peyaraful-nest
-npm install
-npm run dev
-```
-
-### Server
-
-```bash
-cd peyaraful-nest-server
-npm install
-npm run dev
-```
-
----
-
-## 🔐 Environment Variables
-
-Create a `.env` file in both client and server.
-
-### Client
-
-```env
-VITE_API_URL=
-VITE_FIREBASE_API_KEY=
-VITE_FIREBASE_AUTH_DOMAIN=
-VITE_FIREBASE_PROJECT_ID=
-VITE_FIREBASE_STORAGE_BUCKET=
-VITE_FIREBASE_MESSAGING_SENDER_ID=
-VITE_FIREBASE_APP_ID=
-VITE_STRIPE_PUBLISHABLE_KEY=
-```
-
-### Server
-
-```env
-PORT=5000
-
-MONGO_DB_URI=
-
-JWT_SECRET=
-
-FIREBASE_SERVICE_KEY=
-
-STRIPE_SECRET_KEY=
-```
-
----
 
 ## 📂 Repositories
 
